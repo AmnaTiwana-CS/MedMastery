@@ -1,0 +1,26 @@
+{
+  "name": "medmastery",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A Node.js application for processing PDFs and storing data in PostgreSQL.",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pg": "^8.12.0",
+    "python-shell": "^5.0.0",
+    "react-chatbot-kit": "^2.2.2"
+  }
+}

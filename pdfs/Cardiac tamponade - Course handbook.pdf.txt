@@ -1,0 +1,1068 @@
+
+
+Lorrel E.B. Toft, MD
+Cardiac Tamponade
+Handbook 
+
+2Become an expert at www.medmastery.com.
+Table of contents
+Abbreviation list 3
+The pathophysiology of cardiac tamponade 4
+Understanding elevated intrapericardial pressure 5
+Describing the consequences of elevated intrapericardial pressure 8
+Explaining the finding of pulsus paradoxus 13
+Diagnosing cardiac tamponade 16
+Making the clinical diagnosis 17
+Obtaining a pulsus paradoxus measurement 21
+Interpreting ECG and echo findings  28
+Diagnosing tamponade without hypotension 35
+Treating cardiac tamponade 38
+Stabilizing the patient 39
+Performing a pericardiocentesis 41
+Managing a pericardial drain 46
+Appendix 51
+Steps to measuring pulsus paradoxus 52
+Treating cardiac tamponade cheat sheet 54
+Steps to performing pericardiocentesis and drain placement guide 57
+Reference list 59
+
+Abbreviation list
+3
+Aoaorta
+BPblood pressure
+bpmbeats per minute
+COPDchronic obstructive pulmonary disease 
+ECG electrocardiogram 
+echoechocardiogram
+IVintravenous
+LAleft atrium
+LVleft ventricle
+MVmitral valve
+RAright atrium
+RVright ventricle
+Become an expert at www.medmastery.com.
+Abbreviation list
+
+www.medmastery.com
+Chapter 1
+The pathophysiology 
+of cardiac tamponade
+
+Become an expert at www.medmastery.com.5
+Understanding elevated 
+intrapericardial pressure
+Cardiac  tamponade  is  elevated  pressure  inside  the  pericardial  space  that 
+compromises cardiac output. But before we can dive into the details, we need to 
+take a trip down memory lane to review some anatomy. 
+Heart anatomy
+Pericardium
+The heart sits in a double-layered membranous sack called the pericardium or 
+pericardial sac. 
+The inner layer is called the visceral pericardium. It is closest to the heart muscle 
+and so thin that it is almost non-existent, so you can just think of it as the outer 
+surface of the heart. The outer layer is called the parietal pericardium and, in the 
+words  of  my  cardiac  surgeon  friends,  it  is  like  smooth,  glistening,  thick, 
+wet leather. 
+Visceral pericardium
+Parietal pericardium
+
+6Become an expert at www.medmastery.com.
+Imagine the heart wrapped in a leather jacket!
+Pericardial space
+The  pericardial  space  is  the  space  between  these  two  pericardial  layers.  In 
+healthy circumstances, it contains a small amount of fluid, about 15–50 mL, 
+which acts as a lubricating fluid. 
+The heart is a high-power machine, pumping 60–100 beats per minute (bpm). 
+Pericardial fluid is there to decrease friction and allow for smooth movement of 
+the heart.
+Pericardial effusion and cardiac tamponade
+A pericardial effusion is an accumulation of extra fluid in the pericardial space. 
+Many people will see a chest image or an echocardiogram with a large pericardial 
+effusion, like the one shown below, and panic because they equate a pericardial 
+effusion with cardiac tamponade. However, the increased volume of pericardial 
+fluid is not the same as increased pressure. 
+We care about increased pressure because that’s what causes tamponade. 
+Pericardial effusion
+
+7Become an expert at www.medmastery.com.
+Aren’t volume and pressure related?
+Yes, volume and pressure are related. In general, if you increase the volume of 
+fluid in a rigid container, you increase the pressure. But, if the container can 
+stretch,  then  an  increase  in  volume  won’t  lead  to  the  same  sharp  increase 
+in pressure. 
+So,  it’s  not  really  how much  fluid  accumulates,  but  more  how quickly  it  
+accumulates that matters. Let me explain.
+Remember I said the pericardium is like wet, glistening leather? Well, if you’ve 
+ever owned a pair of leather shoes, you know that leather can stretch, but it 
+doesn’t stretch instantly like elastic does. It takes time to slowly stretch to fit 
+your foot. 
+The pericardium is just like this. It can stretch to accommodate increases in fluid, 
+but it does so slowly. And as it stretches, the extra fluid will not cause increased 
+pressure. The pressure only increases when extra volume accumulates faster 
+than the leathery pericardium can stretch. 
+That’s  why  a  large  pericardial  effusion, if  it  develops  slowly,  will  not  cause 
+cardiac tamponade. However, a small amount of fluid accumulating rapidly, like 
+in the case of chest trauma causing rapid arterial bleeding into the pericardial 
+space, will cause tamponade. Sometimes 50 cc is all it takes.
+Next, we will learn the consequences of increased pericardial pressure. 
+ Return to table of contents.
+
+8Become an expert at www.medmastery.com.
+Now that we know how increased intrapericardial pressure develops, let’s think 
+about the effects that has on the heart.
+In  healthy  circumstances,  the  pericardial  pressure  is  effectively  zero  and 
+has no effect on cardiac function. But when the pressure rises, it can start to 
+compromise cardiac filling. 
+Let’s review normal pressures inside the cardiac chambers.
+Normal pressures
+I think about the normal pressures inside the heart as American coins:
+ •Nickels are 5 cents.
+ •Dimes are 10 cents.
+ •Quarters are 25 cents. 
+If you aren’t familiar with American coin denominations, you can just memorize 
+those numbers. 
+Right atrium: 5 mmHg
+The right atrium is a low-pressure chamber receiving the low-pressure venous 
+blood  return  from  the  rest  of  the  body  and  it  sits  around  5  mmHg  in  a 
+well-hydrated person. 
+Right atrium
+Describing the consequences of elevated 
+intrapericardial pressure
+
+9Become an expert at www.medmastery.com.
+Right ventricle: systolic 25 mmHg, diastolic 5 mmHg
+The right ventricle pumps blood into the pulmonary circulation, so it has two 
+pressures, systolic and diastolic. The systolic pressure is around 25 mmHg, and 
+the diastolic pressure is again 5 mmHg. 
+This makes sense because at the end of diastole when the tricuspid valve is 
+open, the pressures in the right atrium and right ventricle equalize. 
+Pulmonary artery: systolic 25 mmHg, diastolic 10 mmHg
+In the pulmonary artery, the systolic pressure is also 25 mmHg, but the diastolic 
+pressure is 10 mmHg. This is because the pulmonary arteries narrow, so the 
+diastolic pressure is higher than in the right ventricle due to the tighter space. 
+Systolic / diastolic pressure
+Right ventricle
+Systolic / diastolic pressure
+Pulmonary artery
+
+10Become an expert at www.medmastery.com.
+Left atrium: 10 mmHg
+The left atrial pressure is right around 10 mmHg. It’s actually 12 mmHg, but 
+again the coin analogy breaks down, and we really just need to know the relative 
+pressures to understand tamponade. 
+Left ventricle: systolic 120 mmHg, diastolic 10 mmHg
+Finally, the left ventricular pressure is high in systole to pump the blood to the 
+whole body, around 120 mmHg, and the end-diastolic pressure is again equal to 
+the atrial pressure, so around 10 mmHg. 
+Left atrium
+Systolic / diastolic pressures
+Left ventricle
+
+11Become an expert at www.medmastery.com.
+You can learn more in-depth about cardiac pressures in the Medmastery course 
+Invasive Hemodynamic Monitoring.
+What happens with increased 
+intrapericardial pressure? 
+Imagine  squeezing  the  heart  from  the  outside.  Which  chambers  will  be 
+affected first? 
+The low-pressure right-sided chambers will be the first to feel the pressure. As 
+pericardial pressure rises, the pressure inside the right atrium and ventricle also 
+starts to rise. 
+As this happens, blood from the low-pressure venous system has a harder time 
+getting into the now high-pressure chambers, so the filling of the right side of 
+the heart decreases. We call this decreased preload. 
+If there is less blood filling the right side of the heart, there is less blood being 
+transmitted  to  the  left  side  of  the  heart.  Eventually,  this  leads  to  a  drop  in 
+stroke volume (which is the amount of blood ejected into the aorta with each 
+contraction).  Therefore,  the  cardiac  output,  which  is  the  amount  of  blood 
+pumped per minute, also drops. 
+Let’s review, this time using some numbers for the mathematically inclined. 
+
+12Become an expert at www.medmastery.com.
+Imagine  a  patient  is  having  a  pacemaker  placed,  and  the  right  atrium  is 
+punctured during the procedure, causing bleeding into the pericardial space. The 
+pericardial pressure rises from 0 mmHg up to 20 mmHg. 
+ 
+What happens to the right atrium and right ventricle? The pressures inside the 
+chambers start to rise, eventually equalizing with the pericardial pressure.
+Now that the right atrial pressure is 20 mmHg, the venous blood returning from 
+the body can no longer fill the heart, eventually causing the reduced cardiac 
+output as we just saw.
+Summary
+Overall, the hemodynamic consequences of elevated intrapericardial pressure 
+that you need to remember are:
+ •Elevated right atrial and right ventricle pressures
+ •Decreased venous return to the heart
+ •Decreased right-ventricular and then left-ventricular filling
+ •Decreased cardiac output
+Take a second to quiz yourself and see if you can remember that list. Next, we 
+will move on to pulsus paradoxus.
+Return to table of contents.
+
+13Become an expert at www.medmastery.com.
+Possibly my favorite physical exam finding is pulsus paradoxus. I’ll teach you 
+how to measure it in the next chapter, but I want to use what we’ve learned about 
+cardiac tamponade to explain this phenomenon. 
+Defining pulsus paradoxus
+Pulsus paradoxus is misnamed, because it’s not a paradox at all, but rather an 
+exaggeration of normal physiology. We’ll learn about it in the context of cardiac 
+tamponade, but keep in mind it can occur in a few other clinical situations. 
+The definition is, “An exaggerated decrease of 10 mmHg or greater of the systolic 
+blood pressure during inspiration.” But that’s quite complex, so let’s think about 
+it step by step.
+What happens in a normal heart?
+First,  think  about  a  normal,  healthy  heart.  Normally,  inspiration  decreases 
+intrathoracic pressure, which makes it easier for blood to enter the veins of 
+the chest. 
+So, inspiration increases venous return. This increased filling of the right heart 
+leads to an increased volume of blood in the right ventricle. 
+Inspiration increases venous return
+Explaining the finding of pulsus paradoxus
+
+14Become an expert at www.medmastery.com.
+Here’s  where  it  gets  exciting.  How  does  the  heart  accommodate  this  extra 
+blood volume? 
+In a healthy heart, the free wall of the right ventricle shifts outward slightly into 
+the pericardial space, and all is well. 
+What happens in a heart under pressure (in tamponade)? 
+Again,  inspiration  decreases  intrathoracic  pressure,  increasing  venous  return 
+and increasing the right ventricular volume. But this time the free wall of the 
+right ventricle (RV) is not free to expand into the pericardial space because the 
+intrapericardial pressure is high. 
+So instead, the only way for the right ventricle to accommodate the extra blood 
+volume is to shift the septum towards the left ventricle (LV), squishing it. 
+This smaller LV cavity means a lower LV stroke volume, decreased cardiac output, 
+and lower blood pressure.
+So, going back to the definition of pulsus paradoxus, now we know that the 
+reason  why  the  blood  pressure  is  lower  during  inspiration  is  that  the  left 
+ventricle is getting squished by the right ventricle, which is getting squished by 
+the pericardial pressure. 
+Increased 
+intrapericardial pressure
+Septum shifts toward 
+LV during inspiration
+
+15Become an expert at www.medmastery.com.
+To help you remember this, think of sitting in the middle back seat of the car 
+when you were young. Your sibling pushed into your personal space on purpose, 
+squishing you, which caused you to squish your other sibling. That’s basically 
+how  tamponade  (the  pushing  sibling)  causes  decreased  cardiac  output  (the 
+squished sibling)! 
+Those of you who have never experienced this road-trip phenomenon are clearly 
+not middle children!
+Now that you’ve mastered the hemodynamics of cardiac tamponade, next we’ll 
+learn how to make the clinical diagnosis, and we’ll use pulsus paradoxus to 
+help us.
+Return to table of contents.
+
+www.medmastery.com
+Chapter 2
+Diagnosing 
+cardiac tamponade
+
+17Become an expert at www.medmastery.com.
+Making the clinical diagnosis
+Cardiac tamponade is a life-threatening, can’t-miss condition, but can be tricky 
+to diagnose. We’re going to integrate risk factors, clinical history, and physical 
+exam findings to make the diagnosis. 
+You’ll hear it said that tamponade is a clinical diagnosis. That just means that 
+while imaging is helpful, you cannot rely on imaging alone and must make the 
+diagnosis based on your clinical judgment. 
+Most but not all patients with tamponade will have hypotension (i.e., low blood 
+pressure). So, for now, let’s start by imagining a patient with hypotension, and I’ll 
+get to the exception later in this chapter. 
+Assessing risk factors
+The first question I ask myself is, How likely is this person to have tamponade? 
+That’s another way of asking, How  high  is  my  clinical  suspicion  based  on  their  
+risk factors? 
+So, what types of patients develop tamponade? 
+Chest trauma and cardiac procedures
+Pretty obvious examples are a patient with chest trauma or a patient who has 
+just had a cardiac procedure such as an angiography or pacemaker placement 
+where, unfortunately, there can be perforation.
+Any conditions associated with pericardial effusion
+Anything  that  can  cause  a  pericardial  effusion  can  cause  tamponade  if  the 
+effusion accumulates quickly enough. So, conditions that can cause effusions 
+and sometimes tamponade include the following: 
+ •Malignancies like breast and lung cancer 
+ •End-stage  renal  disease  (particularly  in  patients  who  have  missed 
+dialysis sessions)
+ •Tuberculosis (known for causing a bloody pericardial effusion)
+ •Prior chest radiation therapy (less frequent cause)
+ •Hypothyroidism (less frequent cause)
+
+18Become an expert at www.medmastery.com.
+So, knowing your patient’s history can help determine your level of suspicion. 
+However,  be  aware  that  tamponade  can  sometimes  develop  without  one  of 
+these causes, or it could be the first presentation of the underlying cause and, 
+therefore, you won’t yet know they have that predisposing condition.
+Identifying the symptoms
+What symptoms might a patient complain of with tamponade? 
+1.   Shortness of breath 
+This is common, particularly with exertion. 
+2. Chest pain 
+Chest pain can also be present, especially if the patient has an inflammatory 
+pericardial  effusion.  This  type  of  inflammatory  chest  pain  is  classically 
+described as worse when they lie down and better when they lean forward. 
+However,  they  could  have  pleuritic  type  chest  pain  instead  which  is  worse 
+on inspiration. 
+when lying downwhen leaning forward
+Inflammatory pericardial effusion chest pain
+on inspirationon expiration
+Pleuritic type chest pain
+
+19Become an expert at www.medmastery.com.
+In fact, chest pain can be of any nature, so don’t rule out tamponade just because 
+the chest pain description isn’t classical. 
+3. Lightheadedness or confusion
+This is due to the hypotension.
+Physical exam findings
+Now we get to the physical exam, which is critical for making this diagnosis. 
+Beck’s triad
+Beck’s  triad  is  the  classic  description  of  three  signs  that  indicate 
+cardiac tamponade: 
+1.  Hypotension
+2. Distended neck veins
+3. Muffled heart sounds 
+Knowing  the  physiology  of  tamponade,  this  makes  sense.  Hypotension  is  a 
+result of low cardiac output. Distended neck veins indicate the impaired venous 
+return to the high-pressure right side of the heart, causing blood to back up and 
+fill the neck veins. And muffled heart sounds are present because there is extra 
+fluid between your stethoscope and the heart. 
+Pulsus paradoxus
+Pulsus paradoxus is not part of Beck’s triad, but it can be very helpful in making 
+this diagnosis. Remember, pulsus paradoxus is a 10 mmHg or more decrease in 
+
+20Become an expert at www.medmastery.com.
+systolic blood pressure during inspiration. In the next lesson, you’ll learn how to 
+measure it yourself. 
+Tachycardia
+Tachycardia is common as the heart rate increases to try to compensate for the 
+low stroke volume and reduced cardiac output. 
+Describing the classic presentation
+Why don’t you try and describe a classic presentation of a patient with cardiac 
+tamponade, and then I’ll tell you mine? Try it, and then read my description below. 
+My patient is a 55-year-old female with breast cancer who has been feeling 
+short of breath when walking between rooms in her house. She comes to the 
+emergency department feeling light-headed. 
+Her blood pressure (BP) is 82/65 mmHg, her heart rate is 119 beats per minute 
+(bpm), she’s breathing rapidly, her external jugular vein is visible up to her earlobe 
+when she is sitting upright, and her heart sounds are difficult to hear. 
+Did you imagine someone similar?
+Next, let’s learn how to measure pulsus paradoxus.
+ Return to table of contents.
+
+21Become an expert at www.medmastery.com.
+Remember the patient we imagined presenting with cardiac tamponade? How 
+can you confirm the diagnosis? 
+Here’s where obtaining a pulsus paradoxus measurement is extremely useful. 
+While there are a few other conditions that can cause pulsus paradoxus such as 
+asthma or chronic obstructive pulmonary disease (COPD) exacerbations, the 
+clinical  picture  of  Beck’s  triad  plus  pulsus  paradoxus  is  very  indicative 
+of tamponade. 
+Measuring pulsus paradoxus
+There are two different techniques to measure a pulsus paradoxus, but I’m going 
+to teach you the one I find most practical and easiest to perform. 
+Preferred method
+Remember that we are looking for a 10 mmHg or greater decrease in systolic 
+blood pressure during inspiration compared to expiration. 
+1.      Take an automated BP measurement.
+Start with getting an idea of the patient’s average systolic blood pressure, 
+usually from an automated measurement. 
+2. Prepare to take a manual BP measurement.
+Get out the manual sphygmomanometer (i.e., blood pressure or BP cuff) 
+and prepare to take the blood pressure yourself. Note that you don’t need to 
+ask the patient to alter their breathing pattern in most cases. 
+=
+High supicion of 
+cardiac tamponade
+Pulsus paradoxus
+Obtaining a pulsus paradoxus measurement
+
+22Become an expert at www.medmastery.com.
+3. Inflate  the  cuff  approximately  20  mmHg higher  than  the  automated 
+systolic measurement.
+4. Release  the  pressure  very  slowly  and  record  the  BP  at  the  first 
+Korotkoff sound.
+Very  slowly release the pressure while watching the needle and listening. 
+Listen for the first time you hear a Korotkoff sound, which is the beat you 
+hear with your stethoscope that is caused by blood rushing into the artery. 
+Note the pressure corresponding to this first Korotkoff sound. 
+5. Continue to very slowly release the pressure and record when you begin to 
+hear a Korotkoff sound at every heartbeat.
+You’ll see the needle bounce with each heartbeat, but there will not be a 
+sound with every beat, only intermittently. Wait until you hear a Korotkoff 
+sound with every heartbeat or every bounce of the needle. Note the pressure 
+when the sound with every heartbeat first occurred. 
+6. Calculate the pulsus paradoxus measurement.
+This is calculated by taking the BP you measured when you first heard a 
+Korotkoff sound (i.e., the expiratory systolic pressure) minus the BP you 
+measured when you began to hear Korotkoff sounds with every beat (i.e., 
+the inspiratory systolic pressure).
+
+23Become an expert at www.medmastery.com.
+In the lesson video, we demonstrated what this process sounds like in reality.
+The first Korotkoff sound was heard at around 138 mmHg. Then we saw the 
+needle bouncing but didn’t hear another sound until around 110 mmHg. Then 
+the needle continued to bounce but it was only when it reached 90 mmHg that 
+we heard a sound with every beat.
+1. Take automated BP measurement.
+2. Prepare to take manual BP 
+measurement.
+3. Inflate ≈ 20 mmHg higher than the 
+automated systolic measurement.
+5. Continue to slowly release and 
+record when Korotkoff sounds begin 
+to occur at every heartbeat
+4. Release pressure very slowly and 
+record BP at the first Korotkoff sound.
+6. Calculate pulsus paradoxus
+
+24Become an expert at www.medmastery.com.
+Since the pressure was 138 mmHg when we heard the first Korotkoff sound 
+and it was 90 mmHg when we started to hear a sound with every heartbeat, the 
+pulsus paradoxus measurement would be calculated as follows:
+138 – 90 = 48 mmHg 
+What does this have to do with inspiration and expiration? 
+Well, that’s exactly what you’re seeing. The first Korotkoff sound, which happens 
+at a high pressure, is during expiration. Remember, the sound from the blood 
+rushing into the artery occurs once the pressure inside the artery is higher than 
+the pressure from the blood pressure cuff. 
+Then, the phase of intermittent sounds (i.e., the times when you don’t hear any 
+blood flow but see the needle move) indicates a heartbeat that is occurring 
+during inspiration. 
+Expiration
+Expiration
+
+25Become an expert at www.medmastery.com.
+Remember that the blood pressure is lower during inspiration because of low 
+cardiac output. So, during inspiration, the arterial pressure drops below the cuff 
+pressure again, stopping blood from rushing in and resulting in no sound. 
+ 
+When you hear a sound with every heartbeat, that means you’ve got down to 
+the point where the arterial pressure during inspiration now also exceeds the 
+cuff pressure. 
+ 
+Inspiration
+Inspiration
+Inspiration
+
+26Become an expert at www.medmastery.com.
+So, note the expiratory systolic pressure, which is when you first heard the sound, 
+and then note the inspiratory systolic pressure, which is when you started hearing 
+a sound with every beat. The difference is your pulsus paradoxus measurement!
+How does this relate to pressure tracings?
+If you were to look at the pressure tracing on an arterial line, it would look like the 
+illustration below. You can see a lower systolic pressure during inspiration, and 
+a higher systolic pressure during expiration. 
+If the patient has an arterial line in the intensive care unit, you might be able to 
+see these fluctuations on the tracing. But I never rely on the arterial line; I always 
+use my ears to make this measurement. 
+Alternate method
+The other method of measuring pulsus paradoxus involves asking the patient 
+to  hold  their  breath  during  inspiration  and  taking  a  systolic  blood  pressure 
+measurement, then taking a separate measurement during expiration. This can 
+be tricky if the patient is short of breath or in distress, so I prefer the first method.
+Troubleshooting
+There are a few problems to avoid using my preferred method:
+1.   If the patient is breathing rapidly, you might not have much time to find the 
+difference between inspiration and expiration. 
+2.    If the pulsus paradoxus is really large (e.g., 20 mmHg), you may miss it if 
+you do not inflate the BP cuff high enough.  
+
+27Become an expert at www.medmastery.com.
+I speak from experience when I recommend starting 20 mmHg higher than the 
+automated measurements. 
+Next, we’ll discuss electrocardiogram (ECG) and echocardiogram (echo) findings 
+in tamponade. 
+ Return to table of contents.
+
+28Become an expert at www.medmastery.com.
+Remember I said that tamponade is a clinical diagnosis? That means you don’t 
+need an ECG or an echocardiogram to make the diagnosis, but they can be 
+helpful, and it’s important to know how to interpret the findings in tamponade. 
+ECG findings
+In  most  cases  of  tamponade,  the  ECG  will  show  sinus  tachycardia  (i.e.,  a 
+regular  rhythm  greater  than  100  bpm)  and  nothing  more  specific.  However, 
+there is a classic ECG finding called electrical alternans, which looks like the 
+illustration below. 
+Alternans refers to the changing, or alternating, axis of the QRS complexes. See 
+how  at  approximately  every  other  beat  the  QRS  switches  from  positive  to 
+negative axis? That’s electrical alternans. This switch in axis is because the 
+heart is swinging in the pericardial sack, which is now full of fluid. 
+In this lesson’s video, we compared an echo of a heart with no effusion with an 
+echo showing an example of a heart surrounded by a large pericardial effusion. 
+We could see how the heart with effusion had a swinging motion. The heart 
+changes positions from beat to beat relative to the fixed ECG leads, resulting in 
+an alternating axis. 
+Interpreting ECG and echo findings 
+
+29Become an expert at www.medmastery.com.
+This can happen in any or all of the ECG leads, so there isn’t a particular lead that 
+is best to view electrical alternans. 
+But  wait!  Didn’t  I  say  that  a  patient  can  have  tamponade without  a  large  
+pericardial effusion? That’s exactly right! Electrical alternans is not unique to 
+cardiac tamponade, but rather to a moderate-size pericardial effusion. 
+So, if a patient has tamponade caused by only a small effusion, you probably 
+won’t see  this finding.  But if the  tamponade  is caused  by an effusion  large 
+enough, then electrical alternans might occur.
+Echo findings 
+Many  clinicians  think  of  the  echo  as  being  definitive  for  tamponade  but 
+remember that it’s just an added tool on top of your clinical diagnostic skills. 
+Size and location
+An echocardiogram can show the size and location of a pericardial effusion. For 
+example, below is a moderate effusion shown in blue. The chambers are pointed 
+out for reference, LV for left ventricle, LA for left atrium, RV for right ventricle, and 
+Ao for aorta. 
+
+30Become an expert at www.medmastery.com.
+Below is an echo demonstrating a small effusion.
+Increased intrapericardial pressure
+Echo can also detect signs of elevated intrapericardial pressure. Remember that 
+as the intrapericardial pressure increases, the low-pressure right atrium (RA) 
+and RV chambers get squeezed from the outside. They can even cave or buckle 
+when the pressure inside the chambers is lower than the pressure outside in the 
+pericardial space. 
+In  the  development  of  tamponade,  RA  and  RV  collapse  occurs  first  during 
+diastole. This is because diastolic pressures inside these chambers are lower 
+than systolic pressures, and so it takes less pressure in the pericardial space to 
+collapse them during diastole.
+So, an early sign of elevated intrapericardial pressure you might see on echo 
+is the diastolic collapse, or inward folding, of the right atrial or right ventricular 
+walls.  For  example,  next  are  echo  images  taken  during  systole  and  diastole, 
+showing the right atrium and the right ventricle. The wall of the right atrium is 
+buckling inward during diastole. 
+
+31Become an expert at www.medmastery.com.
+ 
+In this lesson, we watched a video of this echo showing the buckling of the right 
+atrium and another echo video showing the right ventricular wall buckling inward 
+during diastole. A screenshot from that second image is featured below. 
+This is the most important echo finding for evidence of elevated intrapericardial 
+pressure  and  tamponade  and  it  is  essentially  the  echo  equivalent  of  pulsus 
+paradoxus.  We  can  simplify  this  finding  as  different  ventricular  filling  in 
+inspiration versus expiration. 
+On echo, we can estimate ventricular filling by looking at the flow across the 
+tricuspid and mitral valves. This is called tricuspid inflow or mitral inflow. 
+Diastole
+
+32Become an expert at www.medmastery.com.
+Estimating ventricular filling using tricuspid inflow
+Below is what tricuspid inflow looks like. You can see at the top of the screen 
+that the ultrasound probe is focused on the tricuspid valve on the right side of 
+the heart. 
+The white tracing in the middle shows the flow velocity in meters per second 
+across  the  tricuspid  valve.  This  is  a  surrogate  measure  of  right  ventricular 
+filling. There is an ECG across the bottom of the screen and overlaid on the ECG 
+is  a  wave  showing  respirations,  with  inspiration  at  the  peak  and  expiration  in  
+the valley. 
+Because this is the tricuspid valve on the right side of the heart, we expect to see 
+right ventricular filling (measured by velocity) higher during inspiration and lower 
+during expiration
+Now,  remember  that  pulsus  paradoxus  is  just  an  exaggeration  of  normal 
+physiology. The definition used when looking for tamponade is a 40% or greater 
+change in tricuspid inflow velocity between inspiration and expiration. In other 
+Tricuspid valve inflow
+
+33Become an expert at www.medmastery.com.
+words,  the  velocity  during  expiration  is  at  least  40%  lower  than  the  velocity 
+during inspiration. 
+In the example below, see how the velocity during inspiration is 0.7 m / s but 
+during expiration, it’s only 0.4 m / s, which is just over 40% lower. Therefore, this 
+meets the criteria for tamponade.
+Estimating ventricular filling using mitral inflow 
+You can also look at mitral inflow on the left side. But on the left side, we expect 
+ventricular  filling to be lower during  inspiration and higher  during expiration. 
+Also, because the left side chambers are more muscular and are higher pressure 
+chambers in general, they are less sensitive to pericardial pressure changes. 
+So, the definition used on the left side when looking for tamponade is a 25% 
+or greater change in mitral inflow velocity between expiration and inspiration. 
+In  other  words,  the  velocity  during  inspiration  is  at  least  25%  lower  than 
+during expiration.
+In the next echo showing mitral valve (MV) inflow, the velocity during expiration 
+is around 1 m / s and the inspiratory velocity is just above 0.5 m / s, which is a 
+greater than 25% decrease. Therefore, this also meets the criteria for tamponade.
+Change in tricuspid inflow 
+Cardiac tamponade
+
+34Become an expert at www.medmastery.com.
+ 
+Unless  you’re  someone  who  reads  echos  routinely,  it’s  not  important  to 
+memorize those definitions. However, it is important to understand how the echo 
+findings demonstrate the underlying pathophysiology of cardiac tamponade. 
+And now you understand why ECG and echo can be helpful but are not definitive 
+for diagnosing cardiac tamponade!
+Return to table of contents.
+Change in mitral inflow 
+Cardiac tamponade
+
+35Become an expert at www.medmastery.com.
+You are now armed with clinical skills and pathophysiology knowledge so you’re 
+ready to diagnose cardiac tamponade! 
+However, I mentioned earlier that cardiac tamponade presents with hypotension 
+most of the time, but not always. This is just unfair since Beck’s triad starts 
+with hypotension! 
+Let me tell you a story of how understanding cardiac tamponade physiology 
+helped me diagnose cardiac tamponade in a patient with elevated blood pressure.
+A 48-year-old female presented to the emergency department with shortness 
+of breath. She was from the Philippines and spoke Tagalog with limited English.  
+When asked, “How are you,” she responded in English by saying, “I feel fine.” 
+But then when asked any other questions, such as, “Why did you come to the 
+hospital?” she would just repeat, “I feel fine,” over and over. 
+Her blood pressure was 135/90 mmHg, her heart rate 106 bpm, she was afebrile, 
+and she was breathing 22 times per minute. A CT of the chest was obtained due 
+to her shortness of breath and demonstrated a large pericardial effusion, shown 
+below in blue. 
+Diagnosing tamponade without hypotension
+
+36Become an expert at www.medmastery.com.
+At this point, the emergency department resident called me since I was on call 
+overnight in the cardiac intensive care unit. He was practically holding a needle 
+over her chest, eager to perform pericardiocentesis. 
+“She’s got a huge effusion, so she must be in tamponade, right?” he said. 
+“She’s normotensive!” I replied. “And tamponade is a clinical diagnosis, starting 
+with hypotension.” I clearly thought I was so smart, with all of 2 years’ experience 
+as a physician!
+When I examined her, it was unclear whether her communication was limited by 
+a language barrier or by altered mental status. Her blood pressure was indeed 
+elevated. But I felt her legs, and they were cool to the touch, an indication of poor 
+perfusion and low cardiac output. 
+This  really  seemed  like  tamponade!  And  sure  enough,  her  pulsus  paradoxus 
+measured at 15 mmHg! 
+At  this  point,  we  activated  the  interventional  team  to  perform  urgent 
+pericardiocentesis.  This  was  performed  in  respiratory  isolation  because  a 
+possible  cause  of  her  effusion  was  tuberculosis,  which  is  endemic  in  the 
+Philippines and a common cause of effusion and tamponade.  
+Nearly 1 L of fluid was removed, her blood pressure skyrocketed to 160/100 
+mmHg, and she communicated fluently in English as she was actually bilingual! 
+So,  in  this  case,  her  altered  mental  status  was  the  cause  of  the  initial 
+language barrier. 
+When we talked to her further, we discovered that she had chronic hypertension 
+but had run out of medications recently. Further workup revealed the etiology of 
+Keep in mind that when there are language issues, 
+appropriate medical translation services should be 
+obtained to ensure an accurate history and physical exam.
+
+37Become an expert at www.medmastery.com.
+her effusion and tamponade to be a large malignant thymoma (a tumor of the 
+thymus gland) for which she underwent treatment. 
+The  fascinating  aspect  of  her  case  was  that  she  had  tamponade  with  relative  
+hypotension since she normally lived with a much higher blood pressure. Her 
+decreased cardiac output was causing her confusion and altered mental status, 
+but we only knew so after fluid removal. 
+It  was  a  lesson  I’ll  never  forget  in  the  importance  of  measuring  a  pulsus 
+paradoxus and understanding individual patient physiology. 
+Return to table of contents.
+
+www.medmastery.com
+Chapter 3
+Treating cardiac 
+tamponade
+
+39Become an expert at www.medmastery.com.
+You’ve diagnosed a patient with cardiac tamponade. What now? 
+The definitive treatment is to drain the fluid by performing pericardiocentesis, 
+which we’ll cover in the next lesson. But while you wait (or set up) for that 
+procedure, there are some temporizing measures to stabilize the patient. 
+Intravenous (IV) fluid
+This is first and foremost. I prefer normal saline, but lactated ringer’s solution is 
+also acceptable. Any isotonic fluid to try and bolster intravascular volume works.
+The  problem  in  tamponade  is  underfilling  of  the  right  and, 
+therefore,  left  ventricles.  By  simply  flooding  the  venous 
+system  with  extra  fluid,  you  can  slightly  increase  venous 
+pressure and get more fluid into the right side of the heart and, 
+therefore, the left. 
+This is truly a temporary measure, and usually, 1–2 L of fluid 
+is the limit. 
+The goal is a central venous pressure of around 15 mmHg. With higher pressures 
+due to excessive fluid, the intrapericardial pressure will start to increase. 
+Vasopressors
+If the IV fluids don’t bring up the blood pressure, you can start vasopressors 
+only as a stabilizing measure. If the patient has a central venous catheter, then 
+norepinephrine is my vasopressor of choice. 
+Stabilizing the patient
+
+40Become an expert at www.medmastery.com.
+ 
+Without  central  access,  many  providers  like  to  use  dopamine  as  it  causes 
+potentially  less  local  vasoconstriction.  However,  dopamine  is  also  going  to 
+increase  the  heart  rate,  and,  in  general,  has  not  shown  favorable  effects  in  
+cardiovascular causes of shock.  
+I also do not recommend delaying definitive treatment in order to obtain central 
+access. But if you have the time to quickly insert a central line, it can be useful. 
+The point is you must support the blood pressure any way you can until the 
+tamponade is relieved. Vasopressors can acutely support blood pressure and 
+tissue perfusion, but ultimately the increased afterload on the heart will further 
+compromise cardiac output. 
+Return to table of contents.
+
+41Become an expert at www.medmastery.com.
+Pericardiocentesis is a procedure to remove fluid from the pericardium. The 
+primary goal is to alleviate the elevated pressure and the secondary goal is to 
+avoid damaging any vital structures in the process.
+Depending on your practice location, the pericardiocentesis may be performed by 
+different types of providers such as an interventional cardiologist, an emergency 
+room physician, or a cardiovascular surgeon.
+It’s always preferred to perform the procedure in a controlled, sterile environment 
+by an experienced team. But, in an emergency situation, pericardiocentesis can 
+be lifesaving. So, let’s learn how it’s done. 
+Preparing for a pericardiocentesis
+If available, ultrasound guidance is key to a successful procedure, as you can 
+directly visualize the needle entering the pericardial space. The echocardiogram 
+(echo) below shows a pericardial effusion. Not all effusions are circumferential 
+like this one. 
+If the effusion is mostly posterior to the heart, bedside pericardiocentesis will 
+not be possible or effective. 
+Performing a pericardiocentesis
+
+42Become an expert at www.medmastery.com.
+Prepare your supplies, including the following:
+ •Spinal needle or pericardiocentesis needle with a stylet in place 
+ •10 mL syringe 
+ •3-way stopcock 
+ •Chlorhexidine or other sterilizing scrub 
+ •Local anesthetic in a small syringe with needle 
+ •Sterile drape
+ •Tubing connected to a collection bag for collecting the fluid 
+Steps to performing pericardiocentesis
+If using ultrasound, first use the probe to find the pericardial space. The standard 
+approach for pericardiocentesis is subxiphoid. 
+1.   Locate the xiphoid process and, if using ultrasound, use the probe to find 
+the pericardial space.
+2. Sterilize   the   area   with   chlorhexidine   or   whatever   is   standard   in   
+your practice.
+3. Use local anesthesia such as lidocaine to numb the anticipated path of 
+the needle. 
+4. Insert the spinal or pericardiocentesis needle with the stylet in place. The 
+approach  is  immediately  below  the  xiphoid  process,  aiming  the  needle 
+toward the patient’s left shoulder and inserting it at a 45° angle to the skin. 
+5.    Once the skin is punctured, remove the stylet.
+6. Attach a 3-way stopcock and syringe. 
+7.    Then,  under  ultrasound  guidance,  advance  the  needle  towards  the  left 
+shoulder while gently aspirating continuously with the syringe. 
+8.    When the needle punctures the pericardium and passes into the pericardial 
+space, the syringe will begin to fill with fluid. 
+9. Withdraw fluid into the syringe. 
+
+43Become an expert at www.medmastery.com.
+With even a small amount of fluid removal, hemodynamics will often improve. 
+It  is  sometimes  recommended  that  if  you  are  performing  this  procedure 
+emergently but have an experienced provider on the way, you can remove 50 mL 
+of fluid, or just enough to improve the hypotension, and then stop to wait for the 
+experienced provider to reduce the risk of complications. 
+Send the fluid for testing
+Removal of fluid addresses the immediate need to reduce the pressure, but don’t 
+forget this is a diagnostic as well as therapeutic procedure. Therefore, any fluid 
+specimen should be evaluated for diagnostic clues.
+1. Locate xiphoid and 
+pericardial space 
+2. Sterilize3. Anesthetize
+5. Remove stylet6. Attach 3-way 
+stopcock and syringe
+4. Insert needle with 
+stylet in place
+7. Advance while 
+gently aspirating
+8. Syringe will begin 
+filling after pericardium 
+is punctured
+9. Withdraw fluid
+
+44Become an expert at www.medmastery.com.
+The most important tests to perform include the following:
+ •Cell count to examine the number of red and white blood cells in the fluid
+ •Gram stain to identify any bacteria
+ •Acid-fast staining to look for tuberculosis
+ •Hematocrit to identify whether the effusion is bloody
+ •Cultures to see if any bacteria grow from the fluid
+Other  tests  to  evaluate  for  transudative  versus  exudative  effusion  include 
+the following:
+ •Lactate dehydrogenase
+ •Total protein
+ •Glucose
+In  general,  transudative  effusions  are  pressure  phenomena  due  to  excess 
+volume, like in the case of renal failure with missed dialysis sessions. Exudative 
+effusions, on the other hand, indicate an inflammatory, infectious, or malignant 
+process causing the effusion. 
+Leave it to experienced providers whenever possible!
+There is a reason this procedure is only done by an experienced provider OR 
+in a life-threatening emergency. The complication rate is 5–40% and includes 
+serious  things  like  puncturing  a  coronary  artery,  pneumothorax,  inducing 
+arrhythmia, or puncturing nearby structures like the liver or stomach! 
+Pericardiocentesis is indicated for cardiac tamponade. 
+It is not routinely recommended to drain pericardial 
+effusions if the patient is stable. There are many ways 
+the pericardial space can cause trouble, so there needs 
+to be an important therapeutic reason to enter the space. 
+Pericardiocentesis for diagnostic reasons is rare, and 
+every attempt should be made to reach a diagnosis with 
+alternate testing. 
+
+45Become an expert at www.medmastery.com.
+An experienced provider will remove all the pericardial fluid, and then exchange 
+the  needle  for  a  pericardial  drain  to  provide  continuous  drainage  under 
+observation, in case the effusion recurs acutely. 
+Next, we will learn how to manage a pericardial drain. 
+Return to table of contents.
+
+46Become an expert at www.medmastery.com.
+Phew! You successfully diagnosed, stabilized, and treated a patient with cardiac 
+tamponade. But the work isn’t over yet. 
+After pericardiocentesis, many patients will have a pericardial drain placed by 
+replacing the needle with a small-diameter catheter. The photo on the left shows 
+what a pericardial drain looks like, after removal from a patient of course. The 
+image on the right shows what the catheter looks like in place.
+The drain is placed in case the effusion reaccumulates. Once you’ve accessed 
+the pericardial space, you don’t want to do it a second time!
+Pericardial drain management
+Apart from being relatively rare, is a pericardial drain just like any other drain? 
+The answer is no. This drain requires specialized care, usually in a unit with 
+nursing expertise and experience with pericardial drains. 
+Different cardiologists or surgeons will have unique approaches to their drains, 
+so I’ll share my approach which I think represents best practice. 
+Pericardial drain
+After removalIn place
+Managing a pericardial drain
+
+47Become an expert at www.medmastery.com.
+Allow it to freely drain
+The drain can be allowed to freely drain with gravity with an open stopcock and 
+tube continuously draining into a bag, which is placed lower than the level of 
+the patient. 
+Fluid can also be manually drained with a syringe attached to the stopcock, 
+although this is usually done only at the time of initial placement or if there is 
+concern that fluid has reaccumulated or the drain is not functioning properly. 
+Do not flush the catheter routinely
+I  do  not  recommend  flushing  the  catheter  routinely,  as  there  is  a  risk  of 
+introducing  bacteria  into  the  pericardial  space  even  when  using  a  sterile 
+technique. I only recommend flushing the catheter if there is high suspicion it 
+is clogged, such as when the effusion is bloody and clots are seen in the tubing. 
+Consider antibiotics
+Antibiotics  to  protect  from  skin  flora  are  sometimes  given  when  the  drain  is  
+in place. 
+Record the volume drained
+The amount of fluid draining should be recorded meticulously. It tells you the 
+rate of fluid accumulation in the pericardium. 
+
+48Become an expert at www.medmastery.com.
+When to remove a pericardial drain
+There is no established protocol, but in my practice, I recommend the following:
+1.   Notice once the total fluid drained in 24 hours is less than 50 mL.
+2.    Close the stopcock for 12 hours.
+3. Repeat an echocardiogram to see if an effusion reaccumulates. You may 
+end up doing many echos in this process. 
+4. If the drain is closed for 24 hours with no reaccumulation of fluid, then I 
+recommend the removal of the catheter.
+1. Notice if < 50 mL 
+has accumulated in 
+24 hours
+2. Close stopcock 
+for 12 hours
+3. Repeat echo to check 
+for effusion
+4. Remove the catheter once there is no reaccumulation after 24 hours
+
+49Become an expert at www.medmastery.com.
+The echo image below shows an example where there was no reaccumulation. 
+Timing  of  a  pericardial  catheter  removal  is  a  balance  between  the  risk  of  
+infection  from  an  indwelling  catheter  and  the  risk  of  repeat  tamponade  from  
+fluid reaccumulation. 
+Pericardial drain removal
+Removal of the catheter is relatively straightforward.
+1.   Cut any sutures keeping it in place.
+2.   Tug gently to ensure no fibrotic tissue has formed. 
+3. Remove the catheter in a single fluid motion, not too quickly to cause 
+irritation of the pericardium but not too slowly. 
+If the catheter is a pigtail (i.e., it has a curve on the end), it can feel a little sticky 
+during removal as the curved portion straightens at entry sites. Removal should 
+not be painful but can cause a slight irritation in the chest. 
+It’s very important to never readvance the catheter once it 
+is pulled out, even by a centimeter. Pushing the unsterile 
+catheter into the pericardial space is a great way to 
+introduce infection. 
+
+50Become an expert at www.medmastery.com.
+ 
+And  that’s  it!  Well  done!  You’ve  learned  the  physiology,  diagnosis,  and 
+management of cardiac tamponade. You’re ready to save a life!
+Return to table of contents.
+Pigtail catheter
+
+www.medmastery.com
+Appendix
+
+52Become an expert at www.medmastery.com.
+Remember  that  for  a  diagnosis  of  pulsus  paradoxus,  we  are  looking  for  a 
+10 mmHg or greater decrease in systolic blood pressure (BP) during inspiration 
+compared to expiration. 
+Steps to measuring pulsus paradoxus
+1. Take automated BP measurement.
+2. Prepare to take manual BP 
+measurement.
+3. Inflate ≈ 20 mmHg higher than the 
+automated systolic measurement.
+5. Continue to slowly release and 
+record when Korotkoff sounds begin 
+to occur at every heartbeat
+4. Release pressure very slowly and 
+record BP at the first Korotkoff sound.
+6. Calculate pulsus paradoxus
+
+53Become an expert at www.medmastery.com.
+1.      Take an automated BP measurement
+Start with getting an idea of the patient’s average systolic blood pressure, 
+usually from an automated measurement. 
+2. Prepare to take a manual BP measurement
+Get out the manual sphygmomanometer (i.e., BP cuff) and prepare to take 
+the blood pressure yourself. Note that you don’t need to ask the patient to 
+alter their breathing pattern in most cases. 
+3. Inflate  the  cuff  approximately  20  mmHg higher  than  the  automated 
+systolic measurement.
+4. Release  the  pressure  very  slowly  and  record  the  BP  at  the  first 
+Korotkoff sound.
+Very  slowly release the pressure while watching the needle and listening. 
+Listen for the first time you hear a Korotkoff sound, which is the beat you 
+hear with your stethoscope that is caused by blood rushing into the artery. 
+Note the pressure corresponding to this first Korotkoff sound. 
+5. Continue to very slowly release the pressure and record when you begin to 
+hear a Korotkoff sound at every heartbeat.
+You’ll see the needle bounce with each heartbeat, but there will not be a 
+sound with every beat, only intermittently. Wait until you hear a Korotkoff 
+sound with every heartbeat or every bounce of the needle. Note the pressure 
+when the sound with every heartbeat first occurred. 
+6. Calculate the pulsus paradoxus measurement.
+This is calculated by taking the BP you measured when you first heard a 
+Korotkoff sound (i.e., the expiratory systolic pressure) minus the BP you 
+measured  when  you  began  to  hear  Korotkoff  sounds  with  every  beat 
+(i.e., the inspiratory systolic pressure).
+In the lesson video, we demonstrated what this process sounds like in reality.
+Return to table of contents.
+
+54Become an expert at www.medmastery.com.
+Stabilize the patient
+1.   Intravenous (IV) fluid
+ •≤ 1–2 L of any isotonic fluid (normal saline preferred).
+2. Vasopressors
+ •Norepinephrine preferred if the patient has a central venous catheter.
+ •Dopamine  can  be  used  if  placing  a  central  venous  catheter  will 
+delay treatment.
+Perform pericardiocentesis 
+See Steps to performing pericardiocentesis resource for more information.
+Send the fluid for testing
+ •Cell count to examine the number of red and white blood cells in the fluid
+ •Gram stain to identify any bacteria
+ •Acid-fast staining to look for tuberculosis
+ •Hematocrit to identify whether the effusion is bloody
+ •Cultures to see if any bacteria grow from the fluid
+Other  tests  to  evaluate  for  transudative  versus  exudative  effusion  include 
+the following:
+ •Lactate dehydrogenase
+ •Total protein
+ •Glucose
+Managing a pericardial drain
+1.   Allow it to freely drain with gravity with an open stopcock.
+2.    Do not flush the catheter routinely.
+3. Consider antibiotics.
+4. Record the volume drained.
+Treating cardiac tamponade cheat sheet
+
+55Become an expert at www.medmastery.com.
+Removing a pericardial drain
+There is no established protocol, but in my practice, I recommend the following:
+1.   Notice once the total fluid drained in 24 hours is less than 50 mL.
+2.    Close the stopcock for 12 hours.
+3. Repeat an echocardiogram to see if an effusion reaccumulates. You may 
+end up doing many echos in this process. 
+4. If the drain is closed for 24 hours with no reaccumulation of fluid, then I 
+recommend the removal of the catheter.
+1. Notice if < 50 mL 
+has accumulated in 
+24 hours
+2. Close stopcock 
+for 12 hours
+3. Repeat echocardiogram 
+(echo) to check for effusion
+4. Remove the catheter once there is no reaccumulation after 24 hours
+
+56Become an expert at www.medmastery.com.
+Steps 
+1.   Cut any sutures keeping it in place.
+2.   Tug gently to ensure no fibrotic tissue has formed. 
+3. Remove the catheter in a single fluid motion, not too quickly to cause 
+irritation of the pericardium but not too slowly. 
+ Return to table of contents.
+It’s very important to never readvance the catheter once it 
+is pulled out, even by a centimeter. Pushing the unsterile 
+catheter into the pericardial space is a great way to 
+introduce infection. 
+
+57Become an expert at www.medmastery.com.
+Steps to performing pericardiocentesis and 
+drain placement guide
+1. Locate xiphoid and 
+pericardial space
+2. Sterilize3. Anesthetize
+5. Remove stylet6. Attach 3-way 
+stopcock and syringe
+4. Insert needle with 
+stylet in place
+7. Advance while 
+gently aspirating
+8. Syringe will begin 
+filling after pericardium 
+is punctured
+9. Withdraw fluid
+10. Place pericardial drain
+
+58Become an expert at www.medmastery.com.
+Supplies
+Steps
+1.   Locate the xiphoid process and, if using ultrasound, use the probe to find 
+the pericardial space. 
+2. Sterilize   the   area   with   chlorhexidine   or   whatever   is   standard   in   
+your practice.
+3. Use local anesthesia such as lidocaine to numb the anticipated path of 
+the needle. 
+4. Insert the spinal or pericardiocentesis needle with the stylet in place. The 
+approach  is  immediately  below  the  xiphoid  process,  aiming  the  needle 
+toward the patient’s left shoulder and inserting it at a 45° angle to the skin. 
+5.    Once the skin is punctured, remove the stylet.
+6. Attach a 3-way stopcock and syringe. 
+7.    Under ultrasound guidance, advance the needle towards the left shoulder 
+while gently aspirating continuously with the syringe. 
+8.    When the needle punctures the pericardium, the syringe will begin to fill 
+with fluid. 
+9. Withdraw fluid into the syringe. 
+10.    Replace the needle with a small diameter catheter to allow the effusion to 
+continue to drain.
+Return to table of contents.
+ •Ultrasound if available
+ •Spinal / pericardiocentesis needle 
+with stylet 
+ •10 mL syringe 
+ •3-way stopcock 
+ •Chlorhexidine or other 
+sterilizing scrub 
+ •Local anesthetic in small syringe 
+with needle 
+ •Sterile drape
+ •Tubing connected to a collection bag
+
+59Become an expert at www.medmastery.com.
+Adler, Y, Charron, P, Imazio, M, et al. 2015. 2015 ESC Guidelines for the diagnosis 
+and management of pericardial diseases: The Task Force for the Diagnosis and 
+Management of Pericardial Diseases of the European Society of Cardiology 
+(ESC) Endorsed by: The European Association for Cardio-Thoracic Surgery 
+(EACTS). Eur Heart J. 36: 2921–2964. PMID: 26320112
+Imazio, M and Adler, Y. 2013. Management of pericardial effusion. Eur Heart J. 
+34, 1186–1197. PMID: 23125278
+Imazio, M and De Ferrari, GM. 2021. Cardiac tamponade: An educational review. 
+Eur Heart J Acute Cardiovasc Care. 10: 102–109. PMID: 33609130
+Pulmonary Resident Essentials. “Emergency Pericardiocentesis NEJM.” YouTube 
+video, 10:39. December 6, 2014. https://www.youtube.com
+Spodick, DH. 2003. Acute cardiac tamponade. N Engl J Med. 349: 684–690. 
+PMID: 12917306
+Return to table of contents.
+Reference list
+
+Become an expert by learning the most important clinical skills at www.medmastery.com.
