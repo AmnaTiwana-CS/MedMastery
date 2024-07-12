@@ -6,7 +6,7 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import { exec } from 'child_process';
 import { fileURLToPath } from 'url';
-import { chunkTextBySentence, findRelevantText } from './helpers.js'; // Adjust path as needed
+import { chunkTextBySentence, findRelevantText, insertData, retrieveData } from './helpers.js'; // Adjust path as needed
 
 dotenv.config();
 
@@ -48,7 +48,7 @@ app.post('/chat', async (req, res) => {
         const data = await pdfParse(pdfBuffer);
 
         const textChunks = chunkTextBySentence(data.text);
-        const relevantText = await findRelevantText(message, textChunks);
+        const relevantText = await findRelevantText(message, textChunks, client);
 
         res.json({ reply: relevantText });
     } catch (error) {
@@ -60,9 +60,18 @@ app.post('/chat', async (req, res) => {
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
     client.query(`
-        CREATE TABLE IF NOT EXISTS texts (
+        DROP TABLE IF EXISTS texts;
+        CREATE TABLE texts (
             id SERIAL PRIMARY KEY,
-            text TEXT NOT NULL
+            query TEXT NOT NULL,
+            text TEXT NOT NULL,
+            vector JSONB NOT NULL
         )
-    `);
+    `, (err, res) => {
+        if (err) {
+            console.error('Error creating table:', err);
+        } else {
+            console.log('Table created or already exists');
+        }
+    });
 });
