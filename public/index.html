@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medmastery Chatbot</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f7f7f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            width: 100%;
+            max-width: 800px;
+            height: 90vh;
+            background: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+        }
+        h1 {
+            text-align: center;
+            color: #007BFF;
+            margin: 20px 0;
+        }
+        .chatbox {
+            flex: 1;
+            overflow-y: auto;
+            padding: 20px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .chatbox .message {
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 12px;
+            max-width: 70%;
+            word-wrap: break-word;
+        }
+        .chatbox .user-message {
+            background-color: #007BFF;
+            color: white;
+            align-self: flex-end;
+        }
+        .chatbox .bot-message {
+            background-color: #f1f1f1;
+            color: #333;
+            align-self: flex-start;
+        }
+        .input-area {
+            display: flex;
+            padding: 10px;
+            border-top: 1px solid #e0e0e0;
+        }
+        .input-area input[type="text"] {
+            flex: 1;
+            padding: 10px;
+            margin-right: 10px;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+        }
+        .input-area button {
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .input-area button:hover {
+            background-color: #0056b3;
+        }
+        .loading {
+            font-style: italic;
+            color: #999;
+            font-size: 0.9em;
+        }
+
+        .pulse {
+            animation: pulse 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                opacity: 1;
+            }
+            50% {
+                opacity: .5;
+            }
+        }
+
+        .loading p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Medmastery Chatbot</h1>
+        <div class="chatbox" id="chatbox"></div>
+        <div class="input-area">
+            <input type="text" id="prompt" placeholder="Enter prompt">
+            <button id="sendButton">Send</button>
+        </div>
+    </div>
+    
+<script>
+    let messageCounter = 0;
+
+    function getCompletion() {
+        messageCounter++;
+        const query = document.getElementById('prompt').value;
+        const nPredict = 1;
+        const chatbox = document.getElementById('chatbox');
+
+        document.getElementById('prompt').value = '';
+
+        const userMessage = document.createElement('div');
+        userMessage.classList.add('message', 'user-message');
+        userMessage.textContent = query;
+        chatbox.appendChild(userMessage);
+
+        const responseBubble = document.createElement('div');
+        responseBubble.classList.add("message", 'bot-message', 'loading');
+        const bubbleId = `bubble_${messageCounter}`;
+        responseBubble.setAttribute('id', bubbleId);
+
+        // Create a <p> tag for the loading text with pulse animation
+        const loadingText = document.createElement('p');
+        loadingText.textContent = 'Loading...';
+        loadingText.classList.add('pulse');
+        responseBubble.appendChild(loadingText);
+
+        chatbox.appendChild(responseBubble);
+        chatbox.scrollTop = chatbox.scrollHeight;
+
+        try {
+            const eventSource = new EventSource(`/completion?query=${encodeURIComponent(query)}&nPredict=${nPredict}`);
+            
+            eventSource.onmessage = function(event) {
+                const data = JSON.parse(event.data);
+                displayResult(data, bubbleId);
+            };
+
+            eventSource.onerror = function(err) {
+                console.error('EventSource failed:', err);
+                eventSource.close();
+            };
+        } catch (error) {
+            console.error('Error fetching completion:', error);
+            responseBubble.textContent = `Error fetching completion: ${error.message}`;
+        }
+    }
+
+    function displayResult(data, bubbleId) {
+        const responseBubble = document.getElementById(bubbleId);
+        if (responseBubble.classList.contains('loading')) {
+            responseBubble.classList.remove('loading');
+            responseBubble.innerHTML = ''; // Clear the "Loading..." text
+        }
+        
+        // Format the text
+        const formattedText = formatText(data, responseBubble.innerHTML === '');
+        
+        // Append the formatted text
+        responseBubble.innerHTML += formattedText;
+        
+        document.getElementById('chatbox').scrollTop = chatbox.scrollHeight;
+    }
+
+    function formatText(text, isFirstMessage) {
+        // Remove the first newline if this is the first message
+        if (isFirstMessage) {
+            text = text.replace(/^\n/, '');
+        }
+
+        return text
+            .replace(/\n/g, '<br>') // Replace newlines with <br> tags
+            .replace(/\t/g, '&nbsp;&nbsp;&nbsp;&nbsp;') // Replace tabs with 4 non-breaking spaces
+            .replace(/ {2}/g, '&nbsp;&nbsp;') // Replace double spaces with 2 non-breaking spaces
+            .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>') // Bold text between **
+            .replace(/\*(.*?)\*/g, '<em>$1</em>') // Italic text between *
+            .replace(/`([^`]*)`/g, '<code>$1</code>'); // Inline code between `
+    }
+
+    // Add event listener for Enter key press
+    document.getElementById('prompt').addEventListener('keypress', function(event) {
+        if (event.key === 'Enter') {
+            event.preventDefault(); // Prevent default Enter key behavior
+            getCompletion();
+        }
+    });
+
+    // Add event listener for button click
+    document.getElementById('sendButton').addEventListener('click', getCompletion);
+</script>
+</body>
+</html>

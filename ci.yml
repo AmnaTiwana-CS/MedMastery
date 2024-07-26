@@ -1,0 +1,9 @@
+prepare:
+  steps:
+    - command: npm install
+    - command: pip install -r requirements.txt
+test:
+  steps: []
+run:
+  steps:
+    - command: npm run start
